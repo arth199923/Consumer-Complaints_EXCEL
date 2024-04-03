@@ -12,7 +12,6 @@ This project focuses on analyzing consumer complaints data and generating report
 - Extract data from a JSON format and create new columns for state and code.
 - Populate the state name column in the Consumer Complaints worksheet from the State_Code_Name worksheet.
 - Analyze records with missing state names.
-- Create a summary table for complaints with unmapped state codes.
 
 ### Task 2: Working on Dates
 - Calculate resolution time in days.
